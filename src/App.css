@@ -4,3 +4,16 @@
   text-align: center;
   width: 100%;
 }
+
+
+.pointer{
+  cursor: pointer;
+}
+
+.table-color tr:nth-child(odd) {
+  background-color: #333;
+}
+
+.table-color tr:nth-child(even){
+  background-color: #555;
+}
